@@ -25,9 +25,9 @@
 #作品
 
 - 台灣手機回收地點查詢網站:https://github.com/paulhuang1102/recycle_phone
-  - 用Ajax抓取政府網頁內容。
-  - D3.js做出各廠牌回收商店的統計圖表。
-  - 使用者可依據公司、地點篩選符合需求的店家資訊。
+  -用Ajax抓取政府網頁內容。
+  -D3.js做出各廠牌回收商店的統計圖表。
+  -使用者可依據公司、地點篩選符合需求的店家資訊。
   
  - 響應式網頁練習:https://paulhuang1102.github.io/RWD_layoutpractice/
   - 根據使用者載具大小變更網頁內容
