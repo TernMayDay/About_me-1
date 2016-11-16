@@ -33,6 +33,6 @@
   - 根據使用者載具大小變更網頁內容。
   
 - 健身網站:https://paulhuang1102.github.io/Workout/
-  - 客製iPad與iPhone6 Plus螢幕大小以下的響應式內容。
-  - 使用Font Awesome製作icon。
+  - 客製iPad與iPhone6 Plus螢幕大小以下的響應式內容。
+  - 使用Font Awesome製作icon。
   - 在手機銀幕時，選單自動變成漢堡選單。
