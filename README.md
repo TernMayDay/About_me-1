@@ -29,6 +29,15 @@
   - D3.js做出各廠牌回收商店的統計圖表。
   - 使用者可依據公司、地點篩選符合需求的店家資訊。
   
+- 餐廳電子商務網站:https://paulhuang1102.github.io/RWD_businessWeb/
+  - 購物車頁面:https://paulhuang1102.github.io/RWD_businessWeb/chart.html
+  - 登入頁面:https://paulhuang1102.github.io/RWD_businessWeb/login.html
+  - 註冊頁面:https://paulhuang1102.github.io/RWD_businessWeb/register.html
+  - 響應式設計。
+  - 使用瀑布流Plugin。
+  - 在手機銀幕時，選單自動變成漢堡選單。
+  - 載入TinyMap。
+  
 - 響應式網頁練習:https://paulhuang1102.github.io/RWD_layoutpractice/
   - 根據使用者載具大小變更網頁內容。
   
