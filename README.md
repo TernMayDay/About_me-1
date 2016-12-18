@@ -14,8 +14,8 @@
  - FrontEnd Programming Language
   - Javascript/CSS/HTML
  - Familiar Framework:
-  -jquery.js
-  -D3.js
+  - jquery.js
+  - D3.js
  - BackEnd Programming Language
   - PHP
  - Tools:
