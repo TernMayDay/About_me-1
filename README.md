@@ -30,18 +30,8 @@
   - 使用者可依據公司、地點篩選符合需求的店家資訊。
   
 - 餐廳電子商務網站:https://paulhuang1102.github.io/RWD_businessWeb/
-  - 購物車頁面:https://paulhuang1102.github.io/RWD_businessWeb/chart.html
-  - 登入頁面:https://paulhuang1102.github.io/RWD_businessWeb/login.html
-  - 註冊頁面:https://paulhuang1102.github.io/RWD_businessWeb/register.html
-  - 響應式設計。
+  - RWD+ SASS web layout
   - 使用瀑布流Plugin。
-  - 在手機銀幕時，選單自動變成漢堡選單。
   - 載入TinyMap。
   
-- 響應式網頁練習:https://paulhuang1102.github.io/RWD_layoutpractice/
-  - 根據使用者載具大小變更網頁內容。
-  
-- 健身網站:https://paulhuang1102.github.io/Workout/
-  - 客製iPad與iPhone6 Plus螢幕大小以下的響應式內容。
-  - 使用Font Awesome製作icon。
-  - 在手機銀幕時，選單自動變成漢堡選單。
+
