@@ -11,6 +11,7 @@
 
  -  HTML & CSS3
   - Responsive Web Design
+  - SASS
  - FrontEnd Programming Language
   - Javascript/CSS/HTML
  - Familiar Framework:
