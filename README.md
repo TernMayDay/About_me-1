@@ -34,5 +34,9 @@
   - RWD+ SASS web layout
   - 使用瀑布流Plugin。
   - 載入TinyMap。
-  
 
+- 飲用水水源水質抽驗網站:https://paulhuang1102.github.io/water_quality/
+  - RWD web layout
+  - Bootstrap
+  - Ajax抓取政府網頁內容。
+  - D3.js繪製台灣地圖。
