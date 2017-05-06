@@ -13,15 +13,17 @@
   - Responsive Web Design
   - SASS
  - FrontEnd Programming Language
-  - Javascript/CSS/HTML
- - Familiar Framework:
-  - jquery.js
-  - D3.js
+   - Javascript/CSS/HTML
+ - Familiar FrontEnd Framework:
+   - jquery.js
+   - Angular2
+   - Vuejs
  - BackEnd Programming Language
-  - PHP
+   - Nodejs
+   - PHP
  - Tools:
-  - Version control systems : Git & Github
-  - Data Base : MySQL 
+   - Version control systems : Git & Github
+   - Data Base : MySQL, MongoDB 
 
 #作品
 
