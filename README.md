@@ -42,3 +42,6 @@
   - Bootstrap
   - Ajax抓取政府網頁內容。
   - D3.js繪製台灣地圖。
+  
+- 俄羅斯方塊小遊戲:https://paulhuang1102.github.io/tetris/
+  - js陣列練習
